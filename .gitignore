@@ -51,3 +51,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.cs.meta
+README.md
+README.md.meta
+Scenes.meta
+Scripts.meta
+Scenes
