@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class TpsCamera : MonoBehaviour
+public class SimpleTpsCamera : MonoBehaviour
 {
     #region
 

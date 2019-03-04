@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-public class WayPointMove : MonoBehaviour
+public class SimpleWayPointMove : MonoBehaviour
 {
     #region
 
